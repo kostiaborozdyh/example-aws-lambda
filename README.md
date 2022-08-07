@@ -1,1 +1,2 @@
-# example-aws-lambda
+# Example AWS Lambda with using API Gateway
+<hr>
